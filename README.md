@@ -20,6 +20,6 @@ este es el octavo reto de JavaScript, cuyo **objetivo** es aprender a utilizar l
 # Resultado
 
 💥 Este es el resultado! 💥
-![Imagen de ejemplo](./css/images/imagen.png)
+![Imagen de ejemplo](./css/images/pintamucho.png)
 
 https://adharamonzon.github.io/reto-8-pinta-y-colorea/
